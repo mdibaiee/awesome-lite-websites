@@ -1,6 +1,11 @@
 awesome-lite-websites [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =====================
 
+A list of lightweight [versions of] websites without all the bloat.
+Websites included include no, or very little JavaScript and are smaller than 1MB in size (usually smaller by a significant margin).
+
+Add a website by reading [CONTRIBUTING.md](blob/master/CONTRIBUTING.md).
+
 ## Contents
 
 * [News](#news)
