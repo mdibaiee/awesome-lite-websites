@@ -9,6 +9,8 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Contents
 
 * [News](#news)
+* [Social](#social)
+* [Other](#other)
 
 ## News
 
@@ -16,8 +18,17 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
 - [LevelNews](https://levelnews.org/) - Independent news index
 - [Pxlet](http://www.pxlet.com/) - Lite index of various websites including Hacker News, Reddit, Slashdot and more
+
+## Social
+
 - [Lobsters](https://lobste.rs/) - A technology-focused community centered around link aggregation and discussion
 - [Hacker News](https://news.ycombinator.com/news) - A social news website focusing on computer science and entrepreneurship.
+- [Reddit](https://reddit.com/) - the front page of the internet
+
+## Other
+
+- [Wikipedia](https://wikipedia.org/) - A free online encyclopedia with the aim to allow anyone to edit articles
+- [Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page) - A volunteer effort to digitize and archive cultural works
 
 ## License
 
