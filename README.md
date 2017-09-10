@@ -4,7 +4,7 @@ awesome-lite-websites [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 A list of lightweight [versions of] websites without all the bloat.
 Websites included include no, or very little JavaScript and are smaller than 1MB in size (usually smaller by a significant margin).
 
-Add a website by reading [CONTRIBUTING.md](blob/master/CONTRIBUTING.md).
+Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Contents
 
