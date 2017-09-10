@@ -17,7 +17,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [LevelNews](https://levelnews.org/) - Independent news index
 - [Pxlet](http://www.pxlet.com/) - Lite index of various websites including Hacker News, Reddit, Slashdot and more
 - [Lobsters](https://lobste.rs/) - A technology-focused community centered around link aggregation and discussion
-- [Hacker News](https://news.ycombinator.com/news)
+- [Hacker News](https://news.ycombinator.com/news) - A social news website focusing on computer science and entrepreneurship.
 
 ## License
 
