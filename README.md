@@ -17,23 +17,23 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 ## News
 
 - [CNN Lite](http://lite.cnn.io/en) - A lite version of CNN.com
-- [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
 - [LevelNews](https://levelnews.org/) - Independent news index
+- [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
 - [Pxlet](http://www.pxlet.com/) - Lite index of various websites including Hacker News, Reddit, Slashdot and more
 - [SkimFeed](http://skimfeed.com/) - Tech News aggregator
 
 ## Social
 
-- [Lobsters](https://lobste.rs/) - A technology-focused community centered around link aggregation and discussion
 - [Hacker News](https://news.ycombinator.com/news) - A social news website focusing on computer science and entrepreneurship.
+- [Lobsters](https://lobste.rs/) - A technology-focused community centered around link aggregation and discussion
 - [Reddit](https://reddit.com/) - the front page of the internet
 
 ## Other
 
-- [Wikipedia](https://wikipedia.org/) - A free online encyclopedia with the aim to allow anyone to edit articles
-- [Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page) - A volunteer effort to digitize and archive cultural works
-- [Listen Paradise](http://listenparadise.org) - A minimalistic app to listen [Radio Paradise](http://radioparadise.com).
 - [Afrika Radyo](http://afrikaradyo.com) - An internet radio with emphasis on African and middle-eastern music.
+- [Listen Paradise](http://listenparadise.org) - A minimalistic app to listen [Radio Paradise](http://radioparadise.com).
+- [Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page) - A volunteer effort to digitize and archive cultural works
+- [Wikipedia](https://wikipedia.org/) - A free online encyclopedia with the aim to allow anyone to edit articles
 
 ## License
 
