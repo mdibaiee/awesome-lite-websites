@@ -20,6 +20,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
 - [LevelNews](https://levelnews.org/) - Independent news index
 - [Pxlet](http://www.pxlet.com/) - Lite index of various websites including Hacker News, Reddit, Slashdot and more
+- [SkimFeed](http://skimfeed.com/) - Tech News aggregator
 
 ## Social
 
