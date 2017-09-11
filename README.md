@@ -32,6 +32,8 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - [Wikipedia](https://wikipedia.org/) - A free online encyclopedia with the aim to allow anyone to edit articles
 - [Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page) - A volunteer effort to digitize and archive cultural works
+- [Listen Paradise](http://listenparadise.org) - A minimalistic app to listen [Radio Paradise](http://radioparadise.com).
+- [Afrika Radyo](http://afrikaradyo.com) - An internet radio with emphasis on African and middle-eastern music.
 
 ## License
 
