@@ -24,6 +24,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Social
 
+- [Facebook](https://mbasic.facebook.com) - Basic mode of Facebook
 - [Lobsters](https://lobste.rs/) - A technology-focused community centered around link aggregation and discussion
 - [Hacker News](https://news.ycombinator.com/news) - A social news website focusing on computer science and entrepreneurship.
 - [Reddit](https://reddit.com/) - the front page of the internet
