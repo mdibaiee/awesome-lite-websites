@@ -28,6 +28,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Lobsters](https://lobste.rs/) - A technology-focused community centered around link aggregation and discussion
 - [Hacker News](https://news.ycombinator.com/news) - A social news website focusing on computer science and entrepreneurship.
 - [Reddit](https://reddit.com/) - the front page of the internet
+- [Twitter](https://mobile.twitter.com) - A faster, data friendly way to use Twitter
 
 ## Other
 
