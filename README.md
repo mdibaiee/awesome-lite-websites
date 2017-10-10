@@ -21,6 +21,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [LevelNews](https://levelnews.org/) - Independent news index
 - [Pxlet](http://www.pxlet.com/) - Lite index of various websites including Hacker News, Reddit, Slashdot and more
 - [SkimFeed](http://skimfeed.com/) - Tech News aggregator
+- [Sydney Morning Herald](http://www.smh.com.au/text/) - Breaking news from Sydney, Australia and the world
 
 ## Social
 
