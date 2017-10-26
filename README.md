@@ -23,6 +23,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [SkimFeed](http://skimfeed.com/) - Tech News aggregator
 - [Sydney Morning Herald](http://www.smh.com.au/text/) - Breaking news from Sydney, Australia and the world
 - [Hackaday](http://retro.hackaday.com) - Fresh Hacks Every Day from around the Internet
+- [Reuters](http://mobile.reuters.com/) - A lite version of reuters.com
 
 ## Social
 
