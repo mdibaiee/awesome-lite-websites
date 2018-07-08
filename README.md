@@ -24,6 +24,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Sydney Morning Herald](http://www.smh.com.au/text/) - Breaking news from Sydney, Australia and the world
 - [Hackaday](http://retro.hackaday.com) - Fresh Hacks Every Day from around the Internet
 - [Reuters](http://mobile.reuters.com/) - A lite version of reuters.com
+- [Techdirt Lite](https://www.techdirt.com/?_format=lite) - Text-only version of techdirt.com
 
 ## Social
 
