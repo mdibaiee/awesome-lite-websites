@@ -41,6 +41,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Listen Paradise](http://listenparadise.org) - A minimalistic app to listen [Radio Paradise](http://radioparadise.com).
 - [Afrika Radyo](http://afrikaradyo.com) - An internet radio with emphasis on African and middle-eastern music.
 - [Super Simple Lorem Ipsum](http://supersimpleloremipsum.com/) - Super simple lorem ipsum
+- [DuckDuckGo](https://duckduckgo.com/lite) - A lite version of duckduckgo.com
 
 ## License
 
