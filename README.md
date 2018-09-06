@@ -42,6 +42,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Afrika Radyo](http://afrikaradyo.com) - An internet radio with emphasis on African and middle-eastern music.
 - [Super Simple Lorem Ipsum](http://supersimpleloremipsum.com/) - Super simple lorem ipsum
 - [DuckDuckGo](https://duckduckgo.com/lite) - A lite version of duckduckgo.com
+- [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages.
 
 ## License
 
