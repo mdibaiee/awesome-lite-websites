@@ -42,6 +42,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Super Simple Lorem Ipsum](http://supersimpleloremipsum.com/) - Super simple lorem ipsum
 - [DuckDuckGo](https://duckduckgo.com/lite) - A lite version of duckduckgo.com
 - [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages.
+- [Txti](http://txti.es) - A simple app that lets you create fast web pages for everybody
 
 ## License
 
