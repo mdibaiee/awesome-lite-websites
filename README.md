@@ -24,6 +24,8 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Hackaday](http://retro.hackaday.com) - Fresh Hacks Every Day from around the Internet
 - [Reuters](http://mobile.reuters.com/) - A lite version of reuters.com
 - [Techdirt Lite](https://www.techdirt.com/?_format=lite) - Text-only version of techdirt.com
+- [laarc](https://www.laarc.io/) - a tech mashup of Hacker News and Reddit by two long time fans of both forums
+- [the Context](http://thecontext.net/]- news website based on the information from Wikipedia Current Events Portal (News section), with occasional editorial content (Opinion section)
 
 ## Social
 
@@ -32,6 +34,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Hacker News](https://news.ycombinator.com/news) - A social news website focusing on computer science and entrepreneurship.
 - [Reddit](https://reddit.com/.compact) - Reddit .compact view
 - [Twitter](https://mobile.twitter.com) - A faster, data friendly way to use Twitter
+- [Tilde](http://tilde.club/) - not a social network it is one tiny totally standard unix computer that people respectfully use together in their shared quest to build awesome web pages
 
 ## Other
 
@@ -43,6 +46,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [DuckDuckGo](https://duckduckgo.com/lite) - A lite version of duckduckgo.com
 - [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages.
 - [Txti](http://txti.es) - A simple app that lets you create fast web pages for everybody
+- [10kb Gallery](https://10kb.neocities.org/about.html) -  art within 10,000 bytes
 
 ## License
 
