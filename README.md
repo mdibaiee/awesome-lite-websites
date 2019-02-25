@@ -44,9 +44,14 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Afrika Radyo](http://afrikaradyo.com) - An internet radio with emphasis on African and middle-eastern music.
 - [Super Simple Lorem Ipsum](http://supersimpleloremipsum.com/) - Super simple lorem ipsum
 - [DuckDuckGo](https://duckduckgo.com/lite) - A lite version of duckduckgo.com
+- [wiby](https://wiby.me/) - A search engine for lightweight websites
 - [Conventional Commits](https://conventionalcommits.org/) - The Conventional Commits specification proposes introducing a standardized lightweight convention on top of commit messages.
 - [Txti](http://txti.es) - A simple app that lets you create fast web pages for everybody
-- [Gnoosic](http://www.gnoosic.com) - Hassle free music recommendations.
+- [Gnod](http://www.gnod.com/) - A set of AI-powered tools for discovering new things
+  - [Gnoosic](http://www.gnoosic.com) - Discovering music
+  - [Gnooks](http://www.gnooks.com/) - Discovering books
+  - [Gnovies](http://www.gnovies.com/) - Discovering movies
+  - [Gnod Art](http://art.gnod.com/) - Discovering artists
 - [10kb Gallery](https://10kb.neocities.org/about.html) -  art within 10,000 bytes
 
 ## License
