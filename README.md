@@ -53,6 +53,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
   - [Gnovies](http://www.gnovies.com/) - Discovering movies
   - [Gnod Art](http://art.gnod.com/) - Discovering artists
 - [10kb Gallery](https://10kb.neocities.org/about.html) -  art within 10,000 bytes
+- [qwsx](https://qwsx.cf/) - URL Shortener
 
 ## License
 
