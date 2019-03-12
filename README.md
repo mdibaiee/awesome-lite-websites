@@ -26,6 +26,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Techdirt Lite](https://www.techdirt.com/?_format=lite) - Text-only version of techdirt.com
 - [laarc](https://www.laarc.io/) - a tech mashup of Hacker News and Reddit by two long time fans of both forums
 - [the Context](http://thecontext.net/)- news website based on the information from Wikipedia Current Events Portal (News section), with occasional editorial content (Opinion section)
+- [The Daily Lore](https://www.dailylore.com/) - General news aggregator
 
 ## Social
 
