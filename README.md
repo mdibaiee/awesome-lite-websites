@@ -57,6 +57,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
   - [Gnod Art](http://art.gnod.com/) - Discovering artists
 - [10kb Gallery](https://10kb.neocities.org/about.html) -  art within 10,000 bytes
 - [qwsx](https://qwsx.cf/) - URL Shortener
+- [emuparadise](https://www.emuparadise.me/) - Place to download and play old-school retro video games
 
 ## License
 
