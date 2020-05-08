@@ -16,7 +16,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## News
 
-- [CNN Lite](http://lite.cnn.io/en) - A lite version of CNN.com
+- [CNN Lite](https://lite.cnn.com/en) - A lite version of CNN.com
 - [NPR Text-Only](https://text.npr.org/) - Text-only version of NPR.org
 - [LevelNews](https://levelnews.org/) - Independent news index
 - [Pxlet](http://www.pxlet.com/) - Lite index of various websites including Hacker News, Reddit, Slashdot and more
