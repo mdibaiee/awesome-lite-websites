@@ -58,6 +58,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [10kb Gallery](https://10kb.neocities.org/about.html) -  art within 10,000 bytes
 - [qwsx](https://qwsx.cf/) - URL Shortener
 - [emuparadise](https://www.emuparadise.me/) - Place to download and play old-school retro video games
+- [tucktools](https://www.tucktools.com/) - Free online tools
 
 ## License
 
