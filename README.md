@@ -6,6 +6,8 @@ Websites included include no, or very little JavaScript and are smaller than 1MB
 
 This list is still young and I would like to hear your feedback on what should or should not be included, please submit an issue or contribute to on-going discussions.
 
+feel good after coding!
+
 Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Contents
