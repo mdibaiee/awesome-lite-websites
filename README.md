@@ -27,6 +27,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [laarc](https://www.laarc.io/) - a tech mashup of Hacker News and Reddit by two long time fans of both forums
 - [the Context](http://thecontext.net/)- news website based on the information from Wikipedia Current Events Portal (News section), with occasional editorial content (Opinion section)
 - [Skinny Guardian](https://www.skinnyguardian.xyz) - The last 50 Guardian articles served in simple HTML, CSS and no javascript
+- [Text-Only News](https://textnews.pythonanywhere.com/english) - Simple news website with only text, no javascript
 
 ## Social
 
