@@ -61,7 +61,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [qwsx](https://qwsx.cf/) - URL Shortener
 - [emuparadise](https://www.emuparadise.me/) - Place to download and play old-school retro video games
 - [tucktools](https://www.tucktools.com/) - Free online tools - Needs JavaScript to work
-- [privado](https://https://www.privado.com/) - A lightweight search engine that doesn't IP address or searches in any identifiable way
+- [privado](https://www.privado.com/) - A lightweight search engine that doesn't IP address or searches in any identifiable way
 
 
 ## License
