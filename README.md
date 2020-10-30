@@ -62,6 +62,8 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [emuparadise](https://www.emuparadise.me/) - Place to download and play old-school retro video games
 - [tucktools](https://www.tucktools.com/) - Free online tools - Needs JavaScript to work
 - [privado](https://www.privado.com/) - A lightweight search engine that doesn't IP address or searches in any identifiable way
+- [UnitPrice](https://unitprice.org/) - A simple price analysis tool for purchasing bulk goods on Amazon
+- [okaycup](https://okaycup.com/) - A text-based website that compares varieties of coffee k-cup pods
 
 
 ## License
