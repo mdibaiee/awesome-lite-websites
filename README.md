@@ -64,6 +64,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [privado](https://www.privado.com/) - A lightweight search engine that doesn't IP address or searches in any identifiable way
 - [UnitPrice](https://unitprice.org/) - A simple price analysis tool for purchasing bulk goods on Amazon
 - [okaycup](https://okaycup.com/) - A text-based website that compares varieties of coffee k-cup pods
+- [MinWiz](https://minwiz.com/) - A starter kit for viable, production-ready, lightweight websites
 
 
 ## License
