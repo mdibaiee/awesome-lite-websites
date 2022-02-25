@@ -37,6 +37,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Twitter](https://mobile.twitter.com) - A faster, data friendly way to use Twitter
 - [Tilde](http://tilde.club/) - not a social network it is one tiny totally standard unix computer that people respectfully use together in their shared quest to build awesome web pages
 - [Mataroa](https://mataroa.blog/) - Minimal blogging platform with export as first-class feature.
+- [Haven](https://havenweb.org) - Self hostable social networking alternative.  Open source; uses RSS; minimal with no ads, tracking, or JS frameworks.
 
 ## Other
 
