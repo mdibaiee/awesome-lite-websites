@@ -18,16 +18,15 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - [CNN Lite](https://lite.cnn.com/en) - A lite version of CNN.com
 - [NPR Text-Only](https://text.npr.org/) - Text-only version of NPR.org
-- [LevelNews](https://levelnews.org/) - Independent news index
 - [Pxlet](http://www.pxlet.com/) - Lite index of various websites including Hacker News, Reddit, Slashdot and more
 - [SkimFeed](http://skimfeed.com/) - Tech News aggregator
 - [Hackaday](http://retro.hackaday.com) - Fresh Hacks Every Day from around the Internet
 - [Reuters](http://mobile.reuters.com/) - A lite version of reuters.com
 - [Techdirt Lite](https://www.techdirt.com/?_format=lite) - Text-only version of techdirt.com
 - [laarc](https://www.laarc.io/) - a tech mashup of Hacker News and Reddit by two long time fans of both forums
-- [the Context](http://thecontext.net/)- news website based on the information from Wikipedia Current Events Portal (News section), with occasional editorial content (Opinion section)
 - [CBC](https://www.cbc.ca/lite/) - a lite version of cbc.ca
 - [Legible News](https://legiblenews.com/) - News published once per day that link judiciously to Wikipedia articles
+
 ## Social
 
 - [Facebook](https://mbasic.facebook.com) - Basic mode of Facebook
