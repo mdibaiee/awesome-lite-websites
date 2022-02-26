@@ -27,7 +27,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [laarc](https://www.laarc.io/) - a tech mashup of Hacker News and Reddit by two long time fans of both forums
 - [the Context](http://thecontext.net/)- news website based on the information from Wikipedia Current Events Portal (News section), with occasional editorial content (Opinion section)
 - [CBC](https://www.cbc.ca/lite/) - a lite version of cbc.ca
-
+- [Legible News](https://legiblenews.com/) - News published once per day that link judiciously to Wikipedia articles
 ## Social
 
 - [Facebook](https://mbasic.facebook.com) - Basic mode of Facebook
