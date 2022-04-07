@@ -65,6 +65,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [MinWiz](https://minwiz.com/) - A starter kit for viable, production-ready, lightweight websites
 - [trends24](https://trends24.live/) - Twitter trending hashtags and topics
 - [AppAgg](https://appagg.com/) - APPlication AGGregator
+- [Youtube Trends](https://ytrends.xyz/) - Youtube Trending Videos
 
 ## License
 
