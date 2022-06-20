@@ -66,6 +66,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [trends24](https://trends24.live/) - Twitter trending hashtags and topics
 - [AppAgg](https://appagg.com/) - APPlication AGGregator
 - [Youtube Trends](https://ytrends.xyz/) - Youtube Trending Videos
+- [JSON Lint](https://jsonlint.live/) - JSON Formatter and Validator
 
 ## License
 
