@@ -43,7 +43,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Wikipedia](https://wikipedia.org/) - A free online encyclopedia with the aim to allow anyone to edit articles
 - [Gmail Basic](https://mail.google.com/mail/h/) - Basic HTML version of Gmail
 - [Gmail Mobile](https://mail.google.com/mail/x/) - Minimalistic mobile version of Gmail
-- [Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page) - A volunteer effort to digitize and archive cultural works
+- [Project Gutenberg](https://www.gutenberg.org/) - A volunteer effort to digitize and archive cultural works
 - [Afrika Radyo](http://afrikaradyo.com) - An internet radio with emphasis on African and middle-eastern music.
 - [Super Simple Lorem Ipsum](http://supersimpleloremipsum.com/) - Super simple lorem ipsum
 - [DuckDuckGo](https://duckduckgo.com/lite) - A lite version of duckduckgo.com
