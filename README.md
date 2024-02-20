@@ -65,6 +65,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [AppAgg](https://appagg.com/) - APPlication AGGregator
 - [Youtube Trends](https://ytrends.xyz/) - Youtube Trending Videos
 - [JSON Lint](https://jsonlint.live/) - JSON Formatter and Validator
+- [PlaybookWriter](https://playbookwriter.com/) - A simple tool that generates lightweight step-by-step process documentation from a written or spoken description of a process or task.
 
 ## License
 
