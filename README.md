@@ -20,6 +20,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [NPR Text-Only](https://text.npr.org/) - Text-only version of NPR.org
 - [Pxlet](http://www.pxlet.com/) - Lite index of various websites including Hacker News, Reddit, Slashdot and more
 - [SkimFeed](http://skimfeed.com/) - Tech News aggregator
+- [GopherSignal](https://gophersignal.com/) – Text-only summaries of Hacker News Posts
 - [Hackaday](http://retro.hackaday.com) - Fresh Hacks Every Day from around the Internet
 - [Reuters](http://mobile.reuters.com/) - A lite version of reuters.com
 - [Techdirt Lite](https://www.techdirt.com/?_format=lite) - Text-only version of techdirt.com
