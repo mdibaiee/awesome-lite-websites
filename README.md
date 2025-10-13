@@ -65,6 +65,9 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [AppAgg](https://appagg.com/) - APPlication AGGregator
 - [Youtube Trends](https://ytrends.xyz/) - Youtube Trending Videos
 - [JSON Lint](https://jsonlint.live/) - JSON Formatter and Validator
+- [Example Domain](https://example.com/) - Use for examples, no permission necessary
+
+
 
 ## License
 
